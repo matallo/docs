@@ -134,7 +134,7 @@ Now you may access your app using <https://ui.my-app.work>
 
 ### Naked domains
 
-You can also use a naked domain like `my-app.work` with this method. In that case, you need to use a [ALIAS](https://support.dnsimple.com/articles/alias-record/) record instead of a CNAME record.
+You can also use a naked domain like `my-app.work` with this method. In that case, you need to use an [ALIAS](https://support.dnsimple.com/articles/alias-record/) record instead of a CNAME record.
 
 Some DNS providers do not have ALIAS records. In that case, the functionality of ALIAS records is managed using CNAME records.
 
