@@ -118,7 +118,7 @@ You will then have an error like this:
   src={asset(`${IMAGE_ASSETS_URL}/docs/assign-a-domain-name/alias-error.png`)}
   width={650}
   height={412}
-  caption="Error message you'll get when trying to alias a domain for the first time."
+  caption="The error message you'll get when trying to alias a domain for the first time."
 />
 
 &#8203;<Now color="000"/> wants to verify the ownership of your domain. That's why it throws an error.
